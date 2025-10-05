@@ -8,7 +8,7 @@ order: 4
 
 Hi, I’m **Aai10** — the author of this blog.
 
-This site, **Topi Hitam**, was created to:
+This site, **Si Kucing Hitam**, was created to:
 
 - 🕵️‍♂️ Share cybersecurity notes & CTF writeups  
 - 📚 Document my personal learning journey & experiments  
